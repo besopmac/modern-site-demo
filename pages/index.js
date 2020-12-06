@@ -3,7 +3,7 @@ import { useState } from 'react'
 const Home = () => {
   return (
     <>
-      <h1>Modern Deploy</h1>
+      <h1>Bambala</h1>
       <Contador />
     </>
   )

@@ -1,0 +1,25 @@
+{
+  "name": "modern-site-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besopmac/modern-site-demo.git"
+  },
+  "keywords": [],
+  "author": "Bruno N. Campos <brunosopmac@gmail.com> (https://besopmac.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/besopmac/modern-site-demo/issues"
+  },
+  "homepage": "https://github.com/besopmac/modern-site-demo#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
